@@ -4,6 +4,9 @@ My goal is to make a new program everyday. When I do not have an assignemnt to c
 
 ## Projects
 
+### Day 3 Simple High Low Game (March 20)
+This was one of the first programs I attempted to make in middle school. I was not successful and it put me off from coding for a long time. I decided to revisit it. I was able to complete the program very fast and add a few features that I did not think of before. To play the game will generate a random number between 0 and 100 and will have you guess what the number is. The game will tell you if the guess was too high or low. The game ends when you guess the correct number. I added error handling for invalid guesses and a counter to track how many tries it took to get right. A guess will not be counted if it invalid. This was a [retty easy project but it is nice to be able to do something that I wasn't able to before. I wrote this program in java.
+
 ### Day 2 Urban Dictionary Game (March 19)
 I wanted to make a program that involved web-scraping because it is something that I have never done before.
 I decided to make a game based on Urban Dictionary because I thought it would bea fun way to learn. For those of you who do not know, Urban Dictionary is a website where people go to uplaod definitions and examples of current slang.
