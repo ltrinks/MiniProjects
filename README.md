@@ -4,6 +4,9 @@ My goal is to make a new program everyday. When I do not have an assignemnt to c
 
 ## Projects
 
+### Day 5 FizzBuzz (March 24)
+I heard about this problem from a few people saying that it is a way that businesses test if you actually know how to code when interviewing you. I thought I would try the problem in a language I am not super comfortable in. The program counts from 1 to 100, if the number is divisible by 3 print "Fizz", if it is divisible by 5 print "Buzz", if it is divisible by 3 and 5 print "FizzBuzz", otherwise print the number. This seems easy, but if you do not know what you are doing it can be very challenging and be a spaghetti of conditional statements. I feel like my code is clean and compact and I did well for a language I am not great in. I wrote this program in C.
+
 ### Day 4 Unix Rollover Prediction (March 21)
 I got this idea when reading the book "Humble Pi" by Matt Parker. In the book, there was a section about Unix time, the gregorian calendar, and countless rollover bugs from limited storage with a given number of bits. The book talked about how 32-bit systems will rollover in 2038 and 64-bit systems will rollover probably after the Earth is gone. I decided to write a program that will tell you when a machine with a given number of bits to store Unix time will rollover. The output of the program is the month and year the rollover will happen. This program took a lot of reading and not instantly obvious math to solve. I learned about interesting rules for leap years and that for computers time starts in 1970. I feel like my code, especially for finding the month, was really messy. In the future maybe I will fix this and add a feature to find the day as well. I am really hapy with how I was able to optimize it. In the first loop I wrote to find the year, it took several seconds to run for high bits, I was able to make it almost the same runtime for all numbers of bits. I wrote this program in python.
 
