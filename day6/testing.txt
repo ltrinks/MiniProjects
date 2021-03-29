@@ -1,3 +1,5 @@
-This is a test file 
-to see if the program works as inteded
-thisisareallylongword and it should be saved as such
+This is a test file. Will the program work as intended?
+I hope so, this file should give us clues as to how the program is working!
+It will find the word count and the longest word in the file.
+This is a really long word, polymorphism, it should be the longest word in the file, and the comma should not be included.
+This is the 5th line, that shouldn't matter but I wonder how it will handle numbers in the file. What about numbers that stand on their own like 3 or 5?
