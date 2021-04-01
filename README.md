@@ -4,6 +4,9 @@ My goal is to make a new program everyday. When I do not have an assignemnt to c
 
 ## Projects
 
+### Day 8 Fill Memory (March 31)
+This is a program that is probably the opposite of what someone would want to use. This program takes a filename and a number and then makes a file that takes up that number of bytes. I wrote this to become more familiar with file ouputs in C and variable type data sizes. A char is 1 byte, which is 8 bits. I initially planned to control the size by bits, but most storage is seen by bytes so I ended up doing that. Plus, printing text seemed more straightforward than printing to a binary file. I wrote this program in C.
+
 ### Day 7 Hate Crime Data Analysis (March 30)
 I wanted to become more familiar with analyzing data in pandas for python. I am in a class that uses pandas but the way the assignments work is that they tell us how to do the analysis and to get the same results they reached. I wanted to see if I could find my own statistics from a set I found myself. I learned a bit about how to handle multiple variables for finding one outcome. Although I could not find a specific measure that effects the rate of hate crimes, I ruled that it must be a combination of things that is more than wealth inequality and high school education. I wrote this using pandas in python.
 
