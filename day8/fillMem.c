@@ -12,7 +12,7 @@ int main(int argc, char *argv[]) {
 
 	// for every byte the user wants to fill print a char to the file
 	for (long int i = 0; i < atoi(argv[2]); i++) {
-		fputc((i & 255), output);
+		fputc((i % 255), output);
 	}
 
 	// close the file
